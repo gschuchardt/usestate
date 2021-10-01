@@ -1,0 +1,26 @@
+.nav {
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+a {
+    text-decoration: none;
+    margin: 40px;
+}
+
+a:visited {
+    color: whitesmoke
+}
+
+a:hover {
+    color: hotpink
+}
+
+a:active {
+    color: blue;
+}
+
+ul {
+    list-style: none;  
+}
